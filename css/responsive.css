@@ -1,0 +1,466 @@
+@media only screen and (max-width:1199px) {
+  .Classes-slider .img-fluid {
+    height: 168px;
+}
+.height-weight .height {
+  margin-right: 22px;
+}
+.home-secation-7 .bmi-categery .m-right {
+  margin-right: 2px;
+}
+.CALCULATE .girl-image img{
+  margin-top: 70%;
+}
+.Discount-text h2 {
+  font-size: 65px;
+}
+.discount-image img {
+  margin-top: 145px;
+}
+.title-p {
+  width: 70%;
+}
+}
+
+@media only screen and (max-width:991px) {
+    .cart-0 {
+        left: 68px;
+        bottom: 38px;
+    }
+    .navbar-collapse{
+        background-color: black;
+        color: #fff;
+        margin-top: 10px;
+    }
+    .navbar-nav .nav-link {
+        color: #fff;
+        margin-right: 0px;
+        padding: 10px 15px;
+    }
+    .navbar-nav .nav-item  :hover{
+        background-color: rgba(255, 255, 255, 0.223);
+    }
+    .search-box {
+        margin-left: 15px; 
+    }
+    .header-2 .bg-light {
+        padding: 10px 0px ; 
+    }
+    .bottem-head{
+        margin-bottom: 10;
+    }
+    .banner-text  h2{
+        font-size: 48px;
+      }
+      .banner-text .join-read {
+        padding: 10px 44px;
+    }
+    .bgs-images{
+        min-height: 450px;
+      }
+    .service-box-3{
+        display: none;
+    } 
+    .s-works {
+        padding-top: 15rem;
+        padding-bottom: 15rem;
+      } 
+      .Classes-slider .img-fluid {
+        height: 191px;
+    }
+    .POPULAR-CLASSES-3{
+      display: none;
+    }
+    .team0303{
+      display: none;
+    }
+    .OurTrainer .team-text {
+      max-width: 93%;
+    }
+    .time-tables .list-join {
+      min-height: 70px;
+      padding: 11px 0px;
+  }
+    .home-secation-6 .tb-lineings {
+      overflow-y: hidden;
+      overflow-x: scroll;
+      display: flex;
+    }
+    .home-secation-6 .time-tables .table-list-1{
+      flex-shrink: 0;
+      float: left;
+      width: 50%;
+      max-width: 50%;
+    }
+    .girl-photo{
+      display: none;
+    }
+    .home-secation-7{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .bolg-3-div{
+      display: none;
+    }
+    .f-p-3{
+      display: none;
+    }
+    .discount-image{
+      display: none;
+    }
+    .Discount-text{
+      text-align: center;
+      align-items: center;
+    }
+    .REVIEWS-3{
+      display: none;
+    }
+    .footer-menulink li {
+      margin-right: 32px;
+    }
+    .GIMNAS-image{
+      margin-bottom: 30px;
+    }
+    .title-p {
+      width: 80%;
+  }
+  .Trainer-2{
+    display: none;
+  }
+  
+}
+
+@media only screen and (max-width:767px){
+    .header-1{
+        display: none;
+    }
+    .banner-text  h2{
+        font-size: 23px;
+      }
+      .banner-text .join-read {
+        padding: 8px 20px;
+    }
+    .bgs-images{
+        min-height: 250px;
+      }
+      .bgs-images .banner-text .btn-1{
+        margin-right: 15px;
+      }
+      .theme-h4 {
+        font-size: 17px;
+        font-weight: 600;
+    }
+    .theme-h2 {
+        font-size: 23px;
+    }
+    .home-secation-1 {
+        padding: 50px 0px;
+    }
+    .theme-title {
+        margin-bottom: 30px;
+    }
+    .service-box-2{
+        display: none;
+    }  
+    .service-box-3{
+        display: none;
+    }  
+    .home-secation-2 {
+        padding: 50px 0px 100px 0px;
+    }
+    .services-slider .flex-control-nav {
+        bottom: -54px;
+    }
+    .masonry_title,
+  .masonry_cat {
+    font-size: 1.3rem;
+  }
+  .POPULAR-CLASSES-2{
+    display: none;
+  }
+  .Classes-slider .img-fluid {
+    height: 261px;
+}
+.home-secation-3 {
+  padding: 50px 0px;
+  background-color: #fff;
+}
+.team0202{
+   display: none; 
+}
+.OurTrainer .team-text {
+  max-width: 96%;
+}
+.home-secation-5 {
+  padding: 50px 0px;
+}
+.home-secation-6 {
+  padding: 50px 0px;
+}
+.home-secation-8 {
+  padding: 50px 0px;
+}
+.home-secation-9 {
+  padding: 50px 0px;
+}
+.home-secation-10 {
+  padding: 50px 0px;
+}
+.home-secation-6 .nav-pills .nav-link {
+  margin: 10px 3px;
+}
+.home-secation-6 .nav-pills {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.CALCULATE-text {
+  width: 100%;
+}
+.height-weight{
+  margin-bottom: 30px;
+}
+.height-weight .height {
+  width: 49.5%;
+  margin-right: 12px;
+}
+.home-secation-7 .bmi-categery {
+  width: 100%;
+}
+.bolg-2-div{
+  display: none;
+}
+.bolg-3-div{
+  display: none;
+}
+.conuter-texts {
+  right: 0px;
+  left: 10px;
+}
+.counters-boxs h2 {
+  font-size: 22px;
+}
+.counters-boxs h3 {
+  font-size: 16px;
+}
+.f-p-2{
+  display: none;
+}
+.f-p-3{
+  display: none;
+}
+.Discount-text h2 {
+  font-size: 40px;
+}
+.Discount-text .Discount-30 {
+  font-size: 56px;
+}
+.Discount-text a {
+  background-color: #ea4d24;
+  padding: 10px 40px;
+  margin-top: 20px;
+}
+.home-secation-11{
+  min-height: 350px;
+}
+.REVIEWS-2{
+  display: none;
+}
+.REVIEWS-3{
+  display: none;
+}
+.CLIENT-REVIEWS-slider .flex-control-nav {
+  bottom: -44px;
+}
+.home-secation-12 {
+  padding: 50px 0px  70px 0;
+}
+.slick-slide img {
+  width: 150px;
+}
+.footer-menulink ul{
+text-align: center;
+}
+.footer-menulink li {
+  margin: 0px 15px;
+}
+.footer-menulink{
+  padding: 0;
+}
+.footer-sociallink {
+  text-align: center;
+}
+.pages-banner{
+  min-height: 150px;
+}
+.slick-track{
+  padding: 20px 0px;
+}
+.title-p {
+  width:92%;
+}
+.Trainer-2{
+  display: none;
+}
+.Trainer-3{
+  display: none;
+}
+.CONTACT-INFORMATION #name{
+  margin-bottom: 24px;
+}
+.home-secation-13{
+  padding: 50px 0px;
+}
+.pages-banner .bg-text h2 {
+  font-size: 36px;
+}
+.about-us-secation-2 {
+  padding: 50px 0px;
+}
+.about-us-secation-5 {
+  padding: 50px 0px;
+}
+.footer-menu-social {
+  padding: 20px 0px;
+}
+.footer-text {
+  padding: 30px 0px 30px 0px;
+}
+.copy-Rights {
+  padding: 15px 0px;
+}
+.GIMNAS-text li {
+  margin-bottom: 10px;
+}
+.home-secation-13 {
+  margin-top: 0px;
+}
+.Gallery-secation-2 {
+  padding: 40px 0px 30px 0px;
+}
+.Gallery-secation-2 .page-link {
+  padding: 2px 12px;
+}
+.Classes-secation-2 {
+  padding: 50px 0px;
+}
+.Contact-Us-secation-2 {
+  padding: 50px 0 50px 0;
+}
+.Contact-Us-secation-2 iframe{
+  height: 300px;
+}
+.CONTACT-INFORMATION #message{
+  height: 100px !important;
+}
+}
+@media only screen and (max-width:500px){
+  .footer-menulink li {
+    margin: 0px 5px;
+  }
+ }
+
+@media only screen and (min-width:1200px){
+  .height-weight .height {
+    margin-right: 27px;
+}
+.home-secation-7 .bmi-categery .m-right {
+  margin-right: 3px;
+}
+.CALCULATE .girl-image img{
+  margin-top: 35%;
+}
+}
+
+@media only screen and (min-width:992px) {
+    .cart-0{
+        right: 4px;
+        top: 19px;
+      }
+      .table-1{
+        width: 12.5%;
+        float: left;
+      }
+      .table-2{
+        width: 12.5%;
+        float: left;
+      }
+      .table-3{
+        width: 12.5%;
+        float: left;
+      }
+      .table-4{
+        width: 12.5%;
+        float: left;
+      }
+      .table-5{
+        width: 12.5%;
+        float: left;
+      }
+      .table-6{
+        width: 12.5%;
+        float: left;
+      }
+      .table-7{
+        width: 12.5%;
+        float: left;
+      }
+      .table-8{
+        width: 12.5%;
+        float: left;
+      } 
+      .home-secation-7{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+      } 
+      .dropdown-item {
+        padding: 12px 8px;
+        color: #fff;
+    }
+      .dropdown-menu.show {
+        margin: 0;
+        padding: 0;
+        width: 200px;
+    } 
+      .navbar-expand-lg .navbar-nav .dropdown-menu {
+        background-color: #ea4d24;
+        color: #fff;
+    }  
+    .dropdown-item:hover, .dropdown-item:focus {
+      color:#fff;
+      background-color:#bd3b1b;
+  }   
+} 
+@media only screen and (min-width:768px) {
+    
+ }  
+
+ @media only screen and (min-width:992px) and (max-width:1199px){
+  
+ }
+ @media only screen and (min-width:768px) and (max-width:991px){    
+     
+ }
+ @media only screen and (max-width: 576px) {
+    .s-works {
+      padding-top: 12rem;
+    }
+  
+    .masonry-wrap {
+      padding: 0 35px;
+    }
+  
+    .masonry_block {
+      float: none;
+      width: 100%;
+    }
+  
+    .masonry_title,
+    .masonry_cat {
+      font-size: 1.4rem;
+    }
+  }
